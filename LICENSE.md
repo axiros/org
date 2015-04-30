@@ -1,6 +1,6 @@
 BSD License
 
-For React software
+For Axiros software
 
 Copyright (c) 2002-2015, Axiros GmbH
 All rights reserved.
