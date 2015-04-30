@@ -1,6 +1,6 @@
 BSD License
 
-For Axiros software
+For Axiros Software
 
 Copyright (c) 2002-2015, Axiros GmbH
 All rights reserved.
