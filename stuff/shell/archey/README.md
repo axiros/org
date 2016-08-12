@@ -4,8 +4,8 @@
 
 Install archey, here is the source:
 
-Colors of that 'Jamaica' Edition (adapt to your liking - our color code is
-actually 8bd124):
+Colors as in the Screenshot ('Jamaica' Edition). Adapt to your liking - our color code is
+actually 8bd124:
 
 ```
 echo -e "
